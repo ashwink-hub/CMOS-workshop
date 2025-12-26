@@ -18,7 +18,7 @@ Now type ls and press Enter to see the list of design files.
 
 The code for Lab 1 is seen using the vim editor as follows:
 
---image--
+<img width="1457" height="820" alt="Image" src="https://github.com/user-attachments/assets/277421e0-b64d-4943-a08c-e53838f92a4f" />
 
 Above we see Vdd varying from 0 to 1.8 volts with step size of 0.1 V and Vgs sweeping from 0 to 1.8 V with step size of 0.2 V.
 
