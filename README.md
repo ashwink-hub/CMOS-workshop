@@ -38,8 +38,8 @@ To check the value of Id for corresponding Vds and Vgs, just left click and see.
 
 --image--
 
-Day 02
-Lab 2.1 – day2_nfet_idvds_L015_W039.spice
+## Day 02
+### Lab 2.1 – day2_nfet_idvds_L015_W039.spice
 
 The SPICE code for the Day 02 Id vs Vgs is given below.
 
@@ -63,8 +63,8 @@ It comes around 0.72.
 
 --image--
 
-Day 03
-Lab 3.1 – day3_inv_tran_Wp084_Wn036.spice
+## Day 03
+### Lab 3.1 – day3_inv_tran_Wp084_Wn036.spice
 
 The waveform is given by:
 
@@ -80,7 +80,7 @@ Fall Delay:
 
 --image--
 
-Lab 3.2 – day3_inv_vtc_Wp084_Wn036.spice
+### Lab 3.2 – day3_inv_vtc_Wp084_Wn036.spice
 
 SPICE code for the VTC characteristics can be given below.
 
@@ -98,8 +98,8 @@ To zoom into the curve, press the right mouse button and hold it.
 
 --image--
 
-Day 04
-Lab 4.1 – Day4_inv_noisemargin_wp1_wn036.spice
+## Day 04
+### Lab 4.1 – Day4_inv_noisemargin_wp1_wn036.spice
 
 Here is the SPICE code for Day 04.
 
@@ -109,11 +109,11 @@ Here we take the W/L ratio of PMOS and NMOS as 2.77 and Vin is swept from 0 to 1
 
 --image--
 
-Noise Margin High:
+#### Noise Margin High:
 
 --image--
 
-Noise Margin Low:
+#### Noise Margin Low:
 
 --image--
 
@@ -124,10 +124,10 @@ The x-axis gives VIL and VIH, while the y-axis gives VOH and VOL.
 Noise Margin High = VOH − VIH = 1.73 − 0.984 = 0.746
 Noise Margin Low  = VIL − VOL = 0.7566 − 0.1 = 0.6566
 
-Day 05
-Lab 5.1 – Supply Variation
+## Day 05
+## Lab 5.1 – Supply Variation
 
-day5_inv_supplyvariation_Wp1_Wn036.spice
+### day5_inv_supplyvariation_Wp1_Wn036.spice
 
 SPICE code is given below.
 
@@ -140,9 +140,9 @@ So overall, it gives around 6 iterations.
 
 From the above waveform, we can calculate the gain and supply variation.
 
-Lab 5.2 – Device Variation
+## Lab 5.2 – Device Variation
 
-Day5_inv_devicevariation_wp7_wn042.spice
+### Day5_inv_devicevariation_wp7_wn042.spice
 
 SPICE code can be given below.
 
