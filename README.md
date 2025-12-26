@@ -14,7 +14,7 @@ In the Terminal Emulator, open the folder of design files using the following co
 cd sky130CircuitDesignWorkshop/design/
 Now type ls and press Enter to see the list of design files.
 
---image--
+<img width="863" height="568" alt="Image" src="https://github.com/user-attachments/assets/7e8a7934-97a7-498c-ab0c-7d9682aa7a35" />
 
 The code for Lab 1 is seen using the vim editor as follows:
 
