@@ -34,9 +34,11 @@ plot -vdd#branch
 
 The result is a plot of the above SPICE code in another tab as a pop-up.
 
+! [Spice Simulation](Day1/day1(1))
+
 To check the value of Id for corresponding Vds and Vgs, just left click and see.
 
---image--
+! [Spice Simulation](Day1/day1(2))
 
 ## Day 02
 ### Lab 2.1 – day2_nfet_idvds_L015_W039.spice
