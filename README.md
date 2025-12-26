@@ -34,7 +34,7 @@ plot -vdd#branch
 
 The result is a plot of the above SPICE code in another tab as a pop-up.
 
-![Spice Simulation](Day1/Day1(1).png
+![Spice Simulation](Day1/Day1(1).png)
 
 To check the value of Id for corresponding Vds and Vgs, just left click and see.
 
